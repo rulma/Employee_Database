@@ -13,5 +13,15 @@ Four Key Takeaways:
 + Strong Pool of Candidates to Mentor Current Employees
 + Loyal and Aging Workforce
 
-#### Department Management Vacancies 
 ![vacant](https://github.com/rulma/Employee_Database/blob/48126fe6841a24d5b5162425702c79b131ddf5d1/Pewlett_Hackard-Analysis/Resources/retiring%20titles.PNG)
+
+#### Department Management Vacancies 
+
+
+#### Weakining Senior Staff and Engineers
+
+
+![mentor](https://github.com/rulma/Employee_Database/blob/669d78cb15e6a64e1f0b85fa21c596739e2574ae/Pewlett_Hackard-Analysis/Resources/Mentor%20Eligible.PNG)
+#### Strong Pool of Candidates to Mentor Current Employees
+
+#### Loyal and Aging Workforce
